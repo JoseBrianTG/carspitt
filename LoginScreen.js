@@ -12,7 +12,7 @@ const LoginScreen = () => {
   }
 
   const handleRegister = () => {
-    navigation.navigate('YourComponent'); // Corregir el nombre de la pantalla de registro
+    navigation.navigate('Registro'); // Corregir el nombre de la pantalla de registro
   }
   
 
